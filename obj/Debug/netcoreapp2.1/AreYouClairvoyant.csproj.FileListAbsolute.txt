@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\bin\Debug\netcoreapp2.1\AreYouClairvoyant.deps.json
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\bin\Debug\netcoreapp2.1\AreYouClairvoyant.runtimeconfig.json
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\bin\Debug\netcoreapp2.1\AreYouClairvoyant.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\bin\Debug\netcoreapp2.1\AreYouClairvoyant.dll
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\bin\Debug\netcoreapp2.1\AreYouClairvoyant.pdb
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\obj\Debug\netcoreapp2.1\AreYouClairvoyant.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\obj\Debug\netcoreapp2.1\AreYouClairvoyant.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\obj\Debug\netcoreapp2.1\AreYouClairvoyant.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\obj\Debug\netcoreapp2.1\AreYouClairvoyant.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\obj\Debug\netcoreapp2.1\AreYouClairvoyant.dll
+C:\Users\ahammon3\source\repos\AreYouClairvoyant\obj\Debug\netcoreapp2.1\AreYouClairvoyant.pdb
